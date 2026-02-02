@@ -1,6 +1,3 @@
 opencv-python
 ultralytics
-easyocr
 numpy
-imutils
-matplotlib
