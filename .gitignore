@@ -1,5 +1,11 @@
 .idea/
-venv/
+.venv/
 __pycache__/
-*.pt
 *.mp4
+
+images
+
+yolov8n.pt
+
+dataset_plates
+dataset_characters
