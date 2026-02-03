@@ -6,9 +6,6 @@ Contrairement aux approches classiques (OCR type Tesseract), ce projet utilise u
 1.  **Détection** : Un premier modèle trouve la plaque.
 2.  **Lecture** : Un second modèle identifie chaque caractère individuellement.
 
-![Démonstration du résultat](demo.jpg)
-*(Note : Assurez-vous d'avoir une image nommée demo.jpg à la racine pour voir l'aperçu)*
-
 ## Architecture Technique
 
 Le pipeline de traitement se déroule en 3 étapes :
